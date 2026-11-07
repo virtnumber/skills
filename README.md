@@ -35,4 +35,4 @@ On first use your agent opens the Virtnumber sign-in (OAuth). You choose its per
 - [API and MCP reference](https://www.virtnumber.com/developer)
 - [JavaScript SDK](https://github.com/virtnumber/virtnumber-js) (`npm install virtnumber`)
 - [Privacy](https://www.virtnumber.com/privacy) · [Terms](https://www.virtnumber.com/terms)
-- Support: support@virtnumber.com
+- Support: tech@virtnumber.com
