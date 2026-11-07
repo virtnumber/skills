@@ -1,0 +1,18 @@
+{
+  "name": "virtnumber",
+  "version": "1.0.0",
+  "description": "Rent phone numbers in 14 countries and receive or send SMS from your AI agent, through the Virtnumber MCP server.",
+  "author": {
+    "name": "Virtnumber",
+    "url": "https://www.virtnumber.com"
+  },
+  "homepage": "https://www.virtnumber.com/developer",
+  "repository": "https://github.com/virtnumber/skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Virtnumber",
+    "shortDescription": "Receive and send SMS on numbers in 14 countries from your agent.",
+    "category": "Productivity"
+  }
+}

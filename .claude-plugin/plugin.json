@@ -1,0 +1,21 @@
+{
+  "name": "virtnumber",
+  "description": "Rent phone numbers in 14 countries and receive or send SMS from your AI agent, through the Virtnumber MCP server.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Virtnumber",
+    "url": "https://www.virtnumber.com"
+  },
+  "homepage": "https://www.virtnumber.com/developer",
+  "repository": "https://github.com/virtnumber/skills",
+  "license": "MIT",
+  "keywords": [
+    "sms",
+    "receive-sms",
+    "send-sms",
+    "virtual-phone-number",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://www.virtnumber.com/privacy"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "virtnumber",
+  "owner": {
+    "name": "Virtnumber",
+    "email": "support@virtnumber.com"
+  },
+  "metadata": {
+    "description": "Agent Skills and MCP server for Virtnumber: rent phone numbers in 14 countries, receive and send SMS from AI agents."
+  },
+  "plugins": [
+    {
+      "name": "virtnumber",
+      "source": "./",
+      "description": "Rent a phone number, wait for the next SMS and read it, or send SMS from a US or Swedish two-way number. Adds the Virtnumber MCP server."
+    }
+  ]
+}
