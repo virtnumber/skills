@@ -36,5 +36,3 @@ On first use your agent opens the Virtnumber sign-in (OAuth). You choose its per
 - [JavaScript SDK](https://github.com/virtnumber/virtnumber-js) (`npm install virtnumber`)
 - [Privacy](https://www.virtnumber.com/privacy) · [Terms](https://www.virtnumber.com/terms)
 - Support: support@virtnumber.com
-
-Virtnumber is operated by Getcom OU, Tallinn, Estonia.
