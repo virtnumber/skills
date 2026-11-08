@@ -10,6 +10,7 @@
   "repository": "https://github.com/virtnumber/skills",
   "license": "MIT",
   "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Virtnumber",
     "shortDescription": "Receive and send SMS on numbers in 14 countries from your agent.",
